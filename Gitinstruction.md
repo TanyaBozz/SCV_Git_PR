@@ -48,4 +48,5 @@ git config --global user.email ваша почта@example.com
 
 Вернуться к актуальному состоянию и продолжить работу позволяет команда `git checkout master`
 
+## 8. Игнорирование файлов
 
