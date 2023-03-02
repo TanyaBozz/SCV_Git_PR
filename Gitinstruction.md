@@ -55,6 +55,6 @@ git config --global user.email ваша почта@example.com
 По умолчанию имя основной ветки в Git - **master**.
 Создать ветку можно командой:
 ```
-git branch <имя новоооооой ветки>
+git branch <имя новой ветки>
 ```
 
